@@ -1,2 +1,6 @@
-// Regras de negócio (CPF, telefone, média, usuário e senha) entram aqui no passo 2.
-export {};
+export * from "./acesso";
+export * from "./cpf";
+export * from "./enturmacao";
+export * from "./notas";
+export * from "./telefone";
+export * from "./texto";
